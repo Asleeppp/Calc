@@ -1,0 +1,16 @@
+C:\Users\Birb\source\repos\calc2\calc2\bin\Debug\net8.0-windows\calc2.exe
+C:\Users\Birb\source\repos\calc2\calc2\bin\Debug\net8.0-windows\calc2.deps.json
+C:\Users\Birb\source\repos\calc2\calc2\bin\Debug\net8.0-windows\calc2.runtimeconfig.json
+C:\Users\Birb\source\repos\calc2\calc2\bin\Debug\net8.0-windows\calc2.dll
+C:\Users\Birb\source\repos\calc2\calc2\bin\Debug\net8.0-windows\calc2.pdb
+C:\Users\Birb\source\repos\calc2\calc2\obj\Debug\net8.0-windows\calc2.Form1.resources
+C:\Users\Birb\source\repos\calc2\calc2\obj\Debug\net8.0-windows\calc2.csproj.GenerateResource.cache
+C:\Users\Birb\source\repos\calc2\calc2\obj\Debug\net8.0-windows\calc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birb\source\repos\calc2\calc2\obj\Debug\net8.0-windows\calc2.AssemblyInfoInputs.cache
+C:\Users\Birb\source\repos\calc2\calc2\obj\Debug\net8.0-windows\calc2.AssemblyInfo.cs
+C:\Users\Birb\source\repos\calc2\calc2\obj\Debug\net8.0-windows\calc2.csproj.CoreCompileInputs.cache
+C:\Users\Birb\source\repos\calc2\calc2\obj\Debug\net8.0-windows\calc2.dll
+C:\Users\Birb\source\repos\calc2\calc2\obj\Debug\net8.0-windows\refint\calc2.dll
+C:\Users\Birb\source\repos\calc2\calc2\obj\Debug\net8.0-windows\calc2.pdb
+C:\Users\Birb\source\repos\calc2\calc2\obj\Debug\net8.0-windows\calc2.genruntimeconfig.cache
+C:\Users\Birb\source\repos\calc2\calc2\obj\Debug\net8.0-windows\ref\calc2.dll
